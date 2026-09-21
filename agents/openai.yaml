@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Continuity"
+  short_description: "Save and resume work across Codex conversations"
+  default_prompt: "Use $context-continuity to checkpoint this unfinished task for a fresh Codex conversation."
